@@ -1,4 +1,4 @@
-A Kustom Komponent Zen Flip Clock Wallpaper for Android (Requires either KLWP or KWGT from the playstore)
+A Kustom Komponent Zen Flip Clock Live Wallpaper for Android (Requires either KLWP or KWGT from the playstore)
 <br><br>
 Also available as a web version: http://alext.rf.gd
 <br><br>
